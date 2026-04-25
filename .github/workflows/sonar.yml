@@ -39,6 +39,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: |
           mvn sonar:sonar \
-            -Dsonar.projectKey=kopiny258877f_sonarqube-lab02 \
-            -Dsonar.organization=kopiny258877f \
+            -D"sonar.projectKey=kopiny97_258877f-lab2 \
+            -D"sonar.organization=kopiny97 \
             -Dsonar.host.url=https://sonarcloud.io
+            sonar-scanner.bat `
