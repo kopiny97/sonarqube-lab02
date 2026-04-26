@@ -1,0 +1,7 @@
+organization=kopiny97
+projectKey=kopiny97_258877f-lab2
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.86098
+dashboardUrl=https://sonarcloud.io/dashboard?id=kopiny97_258877f-lab2
+ceTaskId=AZ3DeYENfoIYzeJkIMg6
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ3DeYENfoIYzeJkIMg6
